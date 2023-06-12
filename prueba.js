@@ -1,1 +1,2 @@
-console.log("hola perro")
+console.log("hola perro dog")
+console.log("hola gato")
