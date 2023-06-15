@@ -38,5 +38,3 @@ let iceCreamFlavors = [
     console.log(`Lo siento, no tenemos helados sabor ${iWantAIceCream}`);
   }
   
-
-  
