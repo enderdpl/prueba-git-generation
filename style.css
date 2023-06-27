@@ -1,0 +1,20 @@
+*{
+    margin-top: 2px;
+}
+.success-button{
+    background-color: rgb(13, 231, 28);
+    font-family: cursive;
+    font-size: 19.5px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+.warning-button{
+    background-color: rgb(245, 32, 8);
+    font-family: cursive;
+    font-size: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
